@@ -1,0 +1,23 @@
+Autores:
+	Gabriel Tetsuo Haga, NUSP: 11260680, e-mail: g.haga@usp.br
+	Luccas Portiolli Ribeiro, NUSP: 11262282, e-mail: luccasportiolli@usp.br
+Descrição:
+	EP2.py é um arquivo de um código em linguagem python com o objetivo de resolver o exercício programa proposto 
+	na matéria MAP3121-Métodos Numéricos e suas Aplicações.
+Requisitos:
+	-compilador:Python 3.7
+	-bibliotecas: numpy e matplotlib
+Instruções de uso:
+	-Ao rodar a função pede-se ao usuário definir a tarefa pode-se escolher entre a tarefa 4.1 (aperte 1) e a tarefa 4.2 (aperte 2)
+	Atente-se a desativar o CAPSLOCK;
+	-Caso seja a tarefa 4.1: pede-se o item (a ou b):
+		-Nos dois casos pergunta-se quais outputs devem ser printados.
+		-No item b pergunta-se se deve printar os autovalores analíticos, calculados a partir da fórmula dada 
+	-Caso seja a tarefa 4.2, pede-se os prints a serem feito e se deve rodar uma animação: 
+		-Na animação será pedido:
+			-o intervalo de tempo que deve ser utilizado para rodar, ou seja, o tempo que se passou entre um evento e outro.
+			-o número de quadros que deve ser mostrados
+			-a escala a ser utilizados para representar as deformações
+			-e a frequência natural a ser utilizada, podendo escolher dentre as 5 menores. A escolha pode ser feita de 1 a 5
+			seguindo a ordem crescente para as frequências.
+		
